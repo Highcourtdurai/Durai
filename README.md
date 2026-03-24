@@ -1,4 +1,4 @@
-# Hi, I'm Charunya 👋
+# Hi, I'm Highcourtdurai👋
 
 I build end-to-end AI and ML systems — from classical machine learning and deep learning to RAG pipelines, agentic AI, MCP servers, and production-deployed applications. My projects span Computer Vision, NLP, Generative AI, Time Series, and MLOps.
 
