@@ -28,9 +28,11 @@ I build end-to-end AI and ML systems — from classical machine learning and dee
 
 ### 👁️ Computer Vision & Deep Learning
 
-- [Real-Time Face Mask Detection](https://github.com/Highcourtdurai/Face-Mask) — Deep learning pipeline combining RetinaFace and MobileNetV2 with real-time inference and ONNX export.
+- [Real-Time Glove vs Unglove Detection](https://github.com/Highcourtdurai/Gloved-vs-Ungloved-detection-using-yolov11) — real time glove and unglove detection for industry safety measures.
 
 - [Helmet Detection — YOLOv5 / YOLOv8](https://github.com/Highcourtdurai/Helmet-Detection) — Real-time helmet detection system with custom dataset training and live webcam inference.
+
+- [Multiple object detection — YOLOv5 / YOLOv8](https://github.com/Highcourtdurai/Multiple_Models_Object_Detection_Webapp_YOLO) — This app integrates multiple pretrained models (like Apple, Banana, Orange, Bear, Brain Tumor, Number Plate, Pothole, and more) into one unified web interface using Python, OpenCV, and Ultralytics YOLO.
 
 ---
 
@@ -52,9 +54,9 @@ I build end-to-end AI and ML systems — from classical machine learning and dee
 
 ### 🤖 Classical Machine Learning
 
-- [Used Car Price Prediction — HopeAI](https://github.com/Highcourtdurai/HopeAI-Car_price_prediction) — Regression model with feature engineering and Streamlit deployment.
+- [Crop Recommendation App](https://github.com/Highcourtdurai/crop_recommentation_ml_streamlit) — ML model with Streamlit deployment.
 
-- [Loan Approval Prediction — HopeAI](https://github.com/Highcourtdurai/Loan-Approval-Prediction) — Classification model evaluated with F1-score and ROC-AUC.
+- [Gold Price Prediction using gradio](https://github.com/Highcourtdurai/Gold_price_prediction) — Gold price prediction using ml algorithm and deployed.
 
 ---
 
@@ -71,19 +73,17 @@ I build end-to-end AI and ML systems — from classical machine learning and dee
 
 ## 🔧 What I worked on — Computer Vision
 
-- [RetinaFace Training](https://github.com/Highcourtdurai/Face-Mask/blob/main/train.py)  
-- [MobileNetV2 Training](https://github.com/Highcourtdurai/Face-Mask/blob/main/train_mobilenetv2_mask.py)  
-- [ONNX Export](https://github.com/Highcourtdurai/Face-Mask/blob/main/convert_to_onnx.py)  
-- [YOLO Training](https://github.com/Highcourtdurai/Helmet-Detection/blob/main/Train_images.py)  
-- [Webcam Detection](https://github.com/Highcourtdurai/Helmet-Detection/blob/main/Train_wecam.py)  
+- [ONNX Export](https://github.com/Highcourtdurai/Face-Mask/blob/main/convert_to_onnx.py)  —  Cross-platform model export for C++, mobile, and hardware accelerators
+- [YOLO Training](https://github.com/Highcourtdurai/Helmet-Detection/blob/main/Train_images.py)  —  Custom YOLO-format dataset, data.yaml config, runs/detect/train diagnostics
+- [Webcam Detection](https://github.com/Highcourtdurai/Helmet-Detection/blob/main/Train_wecam.py)  —  Live bounding box overlays on helmet/no-helmet detections
 
 ---
 
 ## 🔧 What I worked on — NLP & Time Series
 
-- [Fake News Model](https://github.com/Highcourtdurai/Fake-News-Prediction/blob/main/Fake%20News%20-%20LSTM.ipynb)  
-- [SARIMA Forecasting](https://github.com/Highcourtdurai/Dominos-Pizza-Sales/blob/main/Pizza_Sales.ipynb)  
-- [Hotel Chatbot NLP](https://github.com/Highcourtdurai/Hotel-Chatbot/blob/main/Hotel-Chatbot.ipynb)  
+- [Fake News Model](https://github.com/Highcourtdurai/Fake-News-Prediction/blob/main/Fake%20News%20-%20LSTM.ipynb) — Embedding layer + LSTM + Dropout, text preprocessing pipeline, F1 Score evaluation
+- [SARIMA Forecasting](https://github.com/Highcourtdurai/Dominos-Pizza-Sales/blob/main/Pizza_Sales.ipynb)  — ADF stationarity test, AIC-based parameter tuning, ingredient procurement output
+- [Hotel Chatbot NLP](https://github.com/Highcourtdurai/Hotel-Chatbot/blob/main/Hotel-Chatbot.ipynb)  — 8 intents, training utterance variety, fallback threshold, FoodMenu.json integration
 
 ---
 
